@@ -1,5 +1,5 @@
 import Card from './Card'
-import data from '../utils/data'
+
 import { useEffect, useState } from 'react'
 import SearchBar from "./SearchBar"
 import Skeleton1 from "./Skeleton"
